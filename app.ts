@@ -4,4 +4,4 @@ let firstname : string ="huzaifa abdulrab";
 
  console.log (firstname.toLocaleUpperCase())
  console.log (firstname.toLocaleLowerCase())
- console.log (firstname.charAt(0).toLocaleUpperCase() + firstname1.slice(1));
+ console.log (firstname.charAt(0).toLocaleUpperCase() + firstname.slice(1));
